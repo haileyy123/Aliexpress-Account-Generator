@@ -6,8 +6,6 @@ import random, time, json, string
 import chromedriver
 import requests
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
-import os
 from faker import Faker
 
 def get_inbox(email):
