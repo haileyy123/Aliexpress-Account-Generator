@@ -1,0 +1,8 @@
+selenium
+undetected-chromedriver
+setuptools
+beautifulsoup4
+requests
+faker
+selenium-wire
+blinker==1.7.0
